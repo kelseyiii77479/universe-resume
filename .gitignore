@@ -1,0 +1,8 @@
+# This repository intentionally contains the exact static website exported for
+# https://c3177707270d4eb7af8e5fafddc55fcf.app-tencent.workbuddy.link
+# The .nojekyll file keeps GitHub Pages from ignoring the _next directory.
+
+.DS_Store
+.env
+.env.*
+*.log
